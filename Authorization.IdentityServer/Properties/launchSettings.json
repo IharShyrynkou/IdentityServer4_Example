@@ -1,0 +1,12 @@
+﻿{
+ "profiles": {
+    "Authorization.IdentityServer": {
+        "commandName": "Project",
+        "launchBrowser": false,
+        "applicationUrl": "https://192.168.100.246:10001;http://192.168.100.246:10000",
+        "environmentVariables": {
+            "ASPNETCORE_ENVIRONMENT": "Development"
+        }
+    }
+  }
+}
